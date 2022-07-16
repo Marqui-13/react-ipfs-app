@@ -2,7 +2,7 @@
   "name": "multi-page-crypto-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Marqui-13.github.io/react-ipfs-app",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
