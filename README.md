@@ -1,1 +1,1 @@
-# react-ipfs-app
+# coin-search
