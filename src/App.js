@@ -23,7 +23,7 @@ function App() {
 
   return (
     <>
-      <Navbar />
+      <NavBar />
       <Routes>
         <Route path='/' element={<Coins coins={coins} />} />
         <Route path='/coin' element={<Coin />}>
