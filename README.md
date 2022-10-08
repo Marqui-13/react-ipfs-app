@@ -1,1 +1,1 @@
-# coin-search
+# coin-list
